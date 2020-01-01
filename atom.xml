@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://arvinlee2015.github.io/"/>
   <updated>2019-12-29T14:58:44.704Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://arvinlee2015.github.io/</id>
   
   <author>
     <name>arvin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>技术力领导力</title>
-    <link href="http://yoursite.com/2019/12/29/%E6%8A%80%E6%9C%AF%E5%8A%9B%E9%A2%86%E5%AF%BC%E5%8A%9B/"/>
-    <id>http://yoursite.com/2019/12/29/%E6%8A%80%E6%9C%AF%E5%8A%9B%E9%A2%86%E5%AF%BC%E5%8A%9B/</id>
+    <link href="https://arvinlee2015.github.io/2019/12/29/%E6%8A%80%E6%9C%AF%E5%8A%9B%E9%A2%86%E5%AF%BC%E5%8A%9B/"/>
+    <id>https://arvinlee2015.github.io/2019/12/29/%E6%8A%80%E6%9C%AF%E5%8A%9B%E9%A2%86%E5%AF%BC%E5%8A%9B/</id>
     <published>2019-12-29T14:48:31.000Z</published>
     <updated>2019-12-29T14:58:44.704Z</updated>
     
@@ -41,17 +41,17 @@
     </summary>
     
     
-      <category term="技术领导力" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF%E9%A2%86%E5%AF%BC%E5%8A%9B/"/>
+      <category term="技术领导力" scheme="https://arvinlee2015.github.io/categories/%E6%8A%80%E6%9C%AF%E9%A2%86%E5%AF%BC%E5%8A%9B/"/>
     
     
-      <category term="技术领导力" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E9%A2%86%E5%AF%BC%E5%8A%9B/"/>
+      <category term="技术领导力" scheme="https://arvinlee2015.github.io/tags/%E6%8A%80%E6%9C%AF%E9%A2%86%E5%AF%BC%E5%8A%9B/"/>
     
   </entry>
   
   <entry>
     <title>Hadoop</title>
-    <link href="http://yoursite.com/2019/12/08/Hadoop/"/>
-    <id>http://yoursite.com/2019/12/08/Hadoop/</id>
+    <link href="https://arvinlee2015.github.io/2019/12/08/Hadoop/"/>
+    <id>https://arvinlee2015.github.io/2019/12/08/Hadoop/</id>
     <published>2019-12-08T15:00:52.000Z</published>
     <updated>2019-12-08T15:01:06.137Z</updated>
     
@@ -65,8 +65,8 @@
   
   <entry>
     <title>First</title>
-    <link href="http://yoursite.com/2019/12/04/First/"/>
-    <id>http://yoursite.com/2019/12/04/First/</id>
+    <link href="https://arvinlee2015.github.io/2019/12/04/First/"/>
+    <id>https://arvinlee2015.github.io/2019/12/04/First/</id>
     <published>2019-12-04T15:36:49.000Z</published>
     <updated>2019-12-08T14:59:28.815Z</updated>
     
@@ -79,21 +79,21 @@
     </summary>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://arvinlee2015.github.io/categories/Hexo/"/>
     
-      <category term="Linux" scheme="http://yoursite.com/categories/Hexo/Linux/"/>
+      <category term="Linux" scheme="https://arvinlee2015.github.io/categories/Hexo/Linux/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://arvinlee2015.github.io/tags/Hexo/"/>
     
-      <category term="Vim" scheme="http://yoursite.com/tags/Vim/"/>
+      <category term="Vim" scheme="https://arvinlee2015.github.io/tags/Vim/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/12/01/hello-world/"/>
-    <id>http://yoursite.com/2019/12/01/hello-world/</id>
+    <link href="https://arvinlee2015.github.io/2019/12/01/hello-world/"/>
+    <id>https://arvinlee2015.github.io/2019/12/01/hello-world/</id>
     <published>2019-12-01T13:00:08.502Z</published>
     <updated>2019-12-01T13:00:08.503Z</updated>
     
